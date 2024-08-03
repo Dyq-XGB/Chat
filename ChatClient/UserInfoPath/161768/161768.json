@@ -1,0 +1,31 @@
+{
+    "baseinfo": {
+        "createtime": "Tue Mar 26 2024+21:47:20",
+        "headshot": "",
+        "id": "161768",
+        "nickname": "11",
+        "password": "11"
+    },
+    "friends": {
+        "983095": [
+            "11",
+            ""
+        ]
+    },
+    "messageitem": [
+        "983095"
+    ],
+    "messagerecord": {
+        "983095": [
+            [
+                "amessage",
+                "161768",
+                "983095",
+                "11",
+                "22:01:21"
+            ]
+        ]
+    },
+    "requestaddfriend": [
+    ]
+}
